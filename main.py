@@ -4,5 +4,9 @@ def x:
 def y:
 	pass
 
+def z:
+	pass
+
 x()
 y()
+z()

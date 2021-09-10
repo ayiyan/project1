@@ -1,1 +1,5 @@
 Secure code as you write it. Automatically review every change to your codebase and identify vulnerabilities before they reach production.
+
+Host code that you don't want to share with the world in private GitHub repos only accessible to you and people you share them with.
+
+Add an extra layer of security with two -actor authentication (2FA) when logging into GitHub. Require 2FA and choose from TOTP apps, security keys, and more.

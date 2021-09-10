@@ -11,6 +11,9 @@ def h:
 	pass
 	
 
+def i:
+	pass
+
 x()
 y()
 z()

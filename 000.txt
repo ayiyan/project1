@@ -1,1 +1,3 @@
 Secure code as you write it. Automatically review every change to your codebase and identify vulnerabilities before they reach production.
+
+Browse or search for the vulnerabilities that GitHub knows about. The database contains all curated CVEs and security advisories on the GitHub dependency graph.

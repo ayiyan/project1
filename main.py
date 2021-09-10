@@ -4,8 +4,12 @@ def x:
 def y:
 	pass
 
-def :
+def z :
 	pass
+
+def h:
+	pass
+	
 
 x()
 y()

@@ -5,3 +5,11 @@ Browse or search for the vulnerabilities that GitHub knows about. The database c
 Host code that you don't want to share with the world in private GitHub repos only accessible to you and people you share them with.
 
 Add an extra layer of security with two -actor authentication (2FA) when logging into GitHub. Require 2FA and choose from TOTP apps, security keys, and more.
+
+
+
+
+
+
+
+Quickly review the actions performed by members of your organization. Your audit log includes details like who performed an action and when.

@@ -1,1 +1,3 @@
 111
+
+Use GPG or S/MIME to sign tags and commits locally. These are marked as verified on GitHub so other people know the changes come from a trusted source.
